@@ -8,10 +8,10 @@ Tiga fitur utama dari aplikasi ini adalah sebagai berikut:
     - Membuat Catatan,
     - Menampilkan Catatan,
     - Mengubah Catatan, dan
-    - Menghapus Catatan,
+    - Menghapus Catatan.
 
 Dalam pengembangan aplikasi sederhana ini, kami menggunakan AWS Services diantaranya:
 
 - EC2,
 - RDS, dan
-- VPC
+- VPC.
